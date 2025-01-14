@@ -19,6 +19,6 @@ This is a simple task management application built using the MERN (MongoDB, Expr
 
 - Node.js and npm installed on your machine
 - MongoDB installed and running (for a full implementation)
-
+-React installed
 
 
